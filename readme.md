@@ -22,7 +22,7 @@ To install the plugin, copy the truncate/ folder into craft/plugins/. Then go to
 
 - **`length`** (required) – The max. number of characters after a string gets cut off.
 
-- **`preserve`** – Makes the filter to preserve whole words. (Default `false`)
+- **`preserve`** – Makes the filter preserve whole words. (Default `false`)
 
 - **`separator`** – The characters to be appended to the truncated string (Default `'...'`)
 
