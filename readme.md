@@ -1,4 +1,4 @@
-# Truncate plugin for Craft
+# Truncate plugin for Craft CMS
 
 Provides a Twig filter to cut off a string after limit is reached. It counts single characters, but you can configure the filter to preserve whole words. This makes the length of the truncated string very predictable, even for short length settings.
 
